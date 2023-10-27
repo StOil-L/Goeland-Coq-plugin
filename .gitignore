@@ -1,6 +1,15 @@
+# Build folder
 _build/
+
+# Compiled Coq files
 coq-demo/*.aux
 coq-demo/*.glob
 coq-demo/*.vo
 coq-demo/*.vok
 coq-demo/*.vos
+
+# Output Coq proofs
+coq-demo/output/*.v
+
+# Goyacc output file
+y.output
