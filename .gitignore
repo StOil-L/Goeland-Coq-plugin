@@ -1,0 +1,6 @@
+_build/
+coq-demo/*.aux
+coq-demo/*.glob
+coq-demo/*.vo
+coq-demo/*.vok
+coq-demo/*.vos
