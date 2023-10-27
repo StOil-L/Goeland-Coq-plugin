@@ -13,7 +13,7 @@ Please note that Goéland is licensed under the CeCILL 2.1 License.
 
 ## Context
 
-This project was carried out during an internship at the LIRMM (*Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier*), as part of the the MAREL (Models and Reuse Engineering, Languages) team.
+This project was carried out during an internship at the LIRMM (*Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier*), as part of the MAREL (Models and Reuse Engineering, Languages) team.
 
 The aforementioned internship lasted between July 1st and September 1st, 2022.
 
@@ -37,6 +37,7 @@ Fortunately, a simple workaround for Windows exists in the form of the Windows S
 
 Whether you wish to run Goéland with Linux or WSL, make sure to have the following packages installed:
 - go (`sudo snap install go --classic`): version 1.18+
+- goyacc (`sudo apt-get install golang-golang-x-tools`)
 - make (`sudo apt install make`)
 - coq-prover (`sudo snap install coq-prover`): version 8.6+
 
